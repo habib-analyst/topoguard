@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)] [![GitHub stars](https://img.shields.io/github/stars/habib-analyst/topoguard.svg)](https://github.com/habib-analyst/topoguard)
+
 # TopoGuard
 
 **Topology-adaptive Byzantine defense for decentralized federated learning.**
